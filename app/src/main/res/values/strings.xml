@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appCadena</string>
+    <string name="Titulo">Utilidad de Cadena</string>
+    <string name="msge">Digite la Cadena</string>
+    <string name="msgr">Resultado de la Cadena</string>
+    <string name="msgc">imprimir cadena</string>
+    <string name="msgcr">imprimir Cadena reversa</string>
+    <string name="botont">mostrar cadena</string>
+
+</resources>
